@@ -13,3 +13,7 @@ You can find the source code for Jekyll at [jekyll](https://github.com/jekyll/je
 ### <a id="_3yhccniveo2m"></a>Note for Cloudstitch Users
 
 Note how in the above, links and liquid tags were converted correctly in Markdown! We support all the standard Markdown features from your word processing docs!
+
+![](../../../../images/img-2298f821-721d-4107-9246-8f4a605ce06f.jpg)
+
+More text
