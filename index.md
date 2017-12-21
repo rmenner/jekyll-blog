@@ -1,9 +1,10 @@
 ---
-date: 2017-12-06 21:21:54.618000000 Z
+title: Home
+date: 2017-12-06 21:21:00 Z
 layout: home
 ---
 
-# <a id="_wcbyik9p97p8"></a>Welcome to the new CMS
+# Welcome to the new CMS
 
 This is your home page. You can edit it just like a regular document.
 
