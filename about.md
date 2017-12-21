@@ -1,9 +1,10 @@
 ---
-date: '2017-12-06T21:21:54.610Z'
-layout: page
 title: About
-permalink: /about/
+date: 2017-12-06 21:21:54.610000000 Z
+permalink: "/about/"
+layout: page
 ---
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at: [minima](https://github.com/jekyll/minima)
